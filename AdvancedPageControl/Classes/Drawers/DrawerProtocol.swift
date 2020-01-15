@@ -24,7 +24,7 @@ public class AdvancedPageControlDrawerParent {
     var indicatorColor:UIColor
     var dotsColor:UIColor
     
-   public init(numberOfPages:Int? = 5,
+   public init(numberOfPages:Int? = 4,
          height: CGFloat? = 16,
          width: CGFloat? = 16,
          space: CGFloat? = 16,
