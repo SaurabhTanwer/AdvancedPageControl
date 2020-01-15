@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 public class ExtendedDotDrawer:AdvancedPageControlDrawerParent, AdvancedPageControlDraw {
     
-     public init(numberOfPages: Int? = 5,
+     public init(numberOfPages: Int? = 4,
                   space: CGFloat? = 16,
                   raduis: CGFloat? = 32,
                   height:CGFloat? = 16,
